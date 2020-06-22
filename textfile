@@ -1,0 +1,6 @@
+trying this out
+this shouldn't show up in the local directory
+until I do some work
+specifically -- until I pull(?)
+and then can I make a new branch, make a file on that branch, and merge the branches?
+that should result in this file and the newly created one both existing on master
